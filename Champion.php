@@ -20,6 +20,14 @@ class Champion extends Model {
 		$this->role = $role;
 	}
 
+    public function getFirstName(){
+        return $this->firstName;
+    }
+
+    public function getRole(){
+        return $this->role;
+    }
+
 	public function __toString() {
 		return json_encode(array(
 			'id' => $this->id,
