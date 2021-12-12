@@ -43,7 +43,7 @@
 
 		<p>Par Noa, Christian, Guillaume, Cyril, Quentin, Florent et Jérémy</p>
 
-		<a class="btn-blue" href="page-acheter-un-champion.html">Acheter en ligne</a>
+		<a class="btn-blue" href="page-acheter-un-champion.php" class="nav-link">Acheter en ligne</a>
 
 	</div>
 
@@ -58,7 +58,7 @@
 				<h2>+150 Champions</h2>
 				<p>Prenez l'ascendant sur votre voie, affrontez vos adversaires dans des combats épiques en 5c5 et détruisez le Nexus ennemi</p>
 				<br>
-				<a class="btn-blue" href="">Bientôt disponible ici</a>
+				<a class="btn-blue" href="showchamp.php" class="nav-link">Voir les personnages</a>
 
 			</div>
 			

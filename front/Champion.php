@@ -13,7 +13,7 @@ class Champion extends Model {
 		
     }
 
-	public function setFirstName(string $firstName) {
+	public function setFirstName(string $Name) {
 		$this->firstName = $firstName;
 	}
 	public function setRole(string $role) {
